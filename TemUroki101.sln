@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemUroki101", "TemUroki101\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T20Ur1-2", "T20Ur1-2\T20Ur1-2.csproj", "{A7F0889F-14DC-4F48-8BBE-294F426EBB04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGRA", "IGRA\IGRA.csproj", "{FBA5B8FA-FA95-45FD-8AB1-90B2DABDF73B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A7F0889F-14DC-4F48-8BBE-294F426EBB04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7F0889F-14DC-4F48-8BBE-294F426EBB04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7F0889F-14DC-4F48-8BBE-294F426EBB04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBA5B8FA-FA95-45FD-8AB1-90B2DABDF73B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA5B8FA-FA95-45FD-8AB1-90B2DABDF73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA5B8FA-FA95-45FD-8AB1-90B2DABDF73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA5B8FA-FA95-45FD-8AB1-90B2DABDF73B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
