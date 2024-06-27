@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T20Ur1-2", "T20Ur1-2\T20Ur1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IGRA", "IGRA\IGRA.csproj", "{FBA5B8FA-FA95-45FD-8AB1-90B2DABDF73B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T21Ur 1-4", "T21Ur 1-4\T21Ur 1-4.csproj", "{AB063A8F-9262-48E2-A9FF-2AD42D0CFC02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T21Ur 1-4", "T21Ur 1-4\T21Ur 1-4.csproj", "{AB063A8F-9262-48E2-A9FF-2AD42D0CFC02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22u1", "22u1\22u1.csproj", "{DA6258DD-41CA-4A3E-B232-9CB2AB6C4906}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{AB063A8F-9262-48E2-A9FF-2AD42D0CFC02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB063A8F-9262-48E2-A9FF-2AD42D0CFC02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB063A8F-9262-48E2-A9FF-2AD42D0CFC02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA6258DD-41CA-4A3E-B232-9CB2AB6C4906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6258DD-41CA-4A3E-B232-9CB2AB6C4906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6258DD-41CA-4A3E-B232-9CB2AB6C4906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6258DD-41CA-4A3E-B232-9CB2AB6C4906}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
